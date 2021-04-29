@@ -113,7 +113,8 @@ uses
   
 type
   TFormPessoa = class(TForm)  
-  
+  lblCep : TLabel;
+
   [ComponentZipCode(zcCEP)]
   edCep: TEdit; 
   
