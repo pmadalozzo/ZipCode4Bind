@@ -2,11 +2,6 @@
 
 Biblioteca para trabalhar com recurso de busca de CEP junto com o Framework [**Bind4D**](https://github.com/bittencourtthulio/Bind4D).
 
-## ⚙️ Instalação 
-
-
-* **Instlação manual**: Adicione as seguintes pastas ao seu projeto, em *Project > Options > Resource Compiler > Directories and Conditionals > Include file search path*
-
 ## ⚡️ Como utilizar o ZipCode4Bind
 
 ## Implementar classe de serviços para que possa passar os parametros necessários.
