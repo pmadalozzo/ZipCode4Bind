@@ -38,9 +38,9 @@ requires
   FireDACCommon;
 
 contains
-  ZC4B in 'scr\ZC4B.pas',
-  ZC4B.Interfaces in 'scr\ZC4B.Interfaces.pas',
-  ZC4B.Credential in 'scr\ZC4B.Credential.pas',
-  ZC4B.Get in 'scr\ZC4B.Get.pas';
+  ZC4B in 'src\ZC4B.pas',
+  ZC4B.Interfaces in 'src\ZC4B.Interfaces.pas',
+  ZC4B.Credential in 'src\ZC4B.Credential.pas',
+  ZC4B.Get in 'src\ZC4B.Get.pas';
 
 end.
